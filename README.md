@@ -1,15 +1,15 @@
 # scannerhelper
 
-Scannerhelper is used to enumerate subdomain and check subdomain vulnerability and open ports
-Thirdparty Tools we used:
-Nmap
-Sub404
-Subfinder
+Scannerhelper is used to enumerate subdomain and check subdomain vulnerability and open ports </br>
+Thirdparty Tools we used: <br>
+Nmap<br>
+Sub404<br>
+Subfinder<br>
 
-#Install
-git clone https://github.com/krrathod/scannerhelper
-cd scannerhelper
-bash scannerhelper.sh
+# Install
+git clone https://github.com/krrathod/scannerhelper<br>
+cd scannerhelper<br>
+bash scannerhelper.sh<br>
 
-#Usage
+# Usage
 bash scannerhelper.sh
