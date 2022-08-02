@@ -7,7 +7,7 @@ Sub404<br>
 Subfinder<br>
 
 # Install
-git clone https://github.com/krrathod/scannerhelper<br>
+git clone https://github.com/krrathod/scannerhelper.git <br>
 cd scannerhelper<br>
 bash scannerhelper.sh<br>
 
